@@ -6,6 +6,5 @@ public class Main {
         System.out.println("Hello from GitHub!");
         var person = new Person();
         System.out.println(person);
-
     }
 }
